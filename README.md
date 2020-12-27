@@ -7,8 +7,6 @@ The steps taken are:<br>
 3. Compare scores for both videos
 <br>
 
-
-
 Video Sources:
 Real: https://www.youtube.com/watch?v=KgvZnxNAThM
 DeepFake: https://www.youtube.com/watch?v=IvY-Abd2FfM
